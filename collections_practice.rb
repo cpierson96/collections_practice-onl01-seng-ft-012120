@@ -16,7 +16,7 @@ def reverse_array(integers)
 end
 def kesha_maker(strings)
   strings.each do |word|
-    word_strings = word.split
+    word_strings = word.split ""
 end
 def find_a(arrays)
 end

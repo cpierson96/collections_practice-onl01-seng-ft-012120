@@ -14,7 +14,8 @@ end
 def reverse_array(integers)
   integers.reverse
 end
-def kesha_maker(arrays)
+def kesha_maker(strings)
+  
 end
 def find_a(arrays)
 end

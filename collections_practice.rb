@@ -17,7 +17,7 @@ end
 def kesha_maker(strings)
   strings.each do |word|
     word_strings = word.split ""
-    
+    word_strings 
 end
 def find_a(arrays)
 end

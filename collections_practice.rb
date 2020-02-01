@@ -7,3 +7,11 @@ end
 def sort_array_char_count(arrays)
   arrays.sort{|left,right| left.length<=> right.length}
 end
+def swap_elements(arrays)
+end
+def reverse_array(arrays)
+end
+def kesha_maker(arrays)
+end
+def find_a(arrays)
+end

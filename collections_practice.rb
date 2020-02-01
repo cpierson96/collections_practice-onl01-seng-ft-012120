@@ -1,3 +1,3 @@
-def array_sort_asc(array)
-  
+def array_sort_asc(arrays)
+  arrays.sort
 end

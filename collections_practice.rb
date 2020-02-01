@@ -24,5 +24,5 @@ end
 kesha
 end
 def find_a(arrays)
-  arrays.select{[|arrays|arrays.start_with?("a")]}
+  arrays.select{|arrays|arrays.start_with?("a")}
 end

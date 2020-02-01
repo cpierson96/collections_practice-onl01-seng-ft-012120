@@ -9,7 +9,7 @@ def sort_array_char_count(arrays)
 end
 def swap_elements(arrays)
   arrays[1], arrays[2] = arrays[2], arrays[1]
-  
+  return strings 
 end
 def reverse_array(arrays)
 end

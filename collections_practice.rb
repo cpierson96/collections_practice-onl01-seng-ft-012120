@@ -4,6 +4,6 @@ end
 def sort_array_desc(arrays)
   arrays.sort! {|x,y| y<=>x}
 end   
-def swap_elements(arrays)
-  
+def sort_array_char_count(arrays)
+  arrays.sort
 end

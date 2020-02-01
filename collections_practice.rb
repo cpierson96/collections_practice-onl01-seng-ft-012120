@@ -15,7 +15,7 @@ def reverse_array(integers)
   integers.reverse
 end
 def kesha_maker(strings)
-  kesh = []
+  kesha = []
   strings.each do |word|
     word_strings = word.split ""
     word_strings[2] = "$"

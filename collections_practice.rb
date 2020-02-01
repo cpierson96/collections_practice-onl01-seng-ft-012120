@@ -26,3 +26,6 @@ end
 def find_a(arrays)
   arrays.select{|arrays|arrays.start_with?("a")}
 end
+def sum_array(integers)
+  integers.inject
+end 

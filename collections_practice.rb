@@ -15,8 +15,8 @@ def reverse_array(integers)
   integers.reverse
 end
 def kesha_maker(strings)
-  strings.each do |character|
-    character_strings
+  strings.each do |word|
+    word_strings = word.split
 end
 def find_a(arrays)
 end

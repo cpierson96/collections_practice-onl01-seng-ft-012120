@@ -35,5 +35,6 @@ def add_s(word)
     string
   else 
     string << "s"
+    end
   end
 end

@@ -21,5 +21,7 @@ def kesha_maker(strings)
     word_strings[2] = "$"
     kesha << word_strings.join
 end
+kesha
+end
 def find_a(arrays)
 end

@@ -16,7 +16,7 @@ def reverse_array(integers)
 end
 def kesha_maker(strings)
   strings.each do |character|
-    
+    character_strings
 end
 def find_a(arrays)
 end
